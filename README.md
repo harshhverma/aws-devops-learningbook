@@ -12,9 +12,9 @@ This repository documents my hands-on AWS and DevOps learning journey.
 - Infrastructure Practice
 
 ## Shell Scripting
-Basics
-Linux Commands
-Advanced Shell Scripting (Monitoring, Processes, Robust Scripts)
+- Basics
+- Linux Commands
+- Advanced Shell Scripting (Monitoring, Processes, Robust Scripts)
 
 ## Goal
 
