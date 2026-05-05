@@ -11,6 +11,11 @@ This repository documents my hands-on AWS and DevOps learning journey.
 - IAM Fundamentals
 - Infrastructure Practice
 
+## Shell Scripting
+Basics
+Linux Commands
+Advanced Shell Scripting (Monitoring, Processes, Robust Scripts)
+
 ## Goal
 
 To build production-ready cloud engineering skills through structured practice and documentation.
