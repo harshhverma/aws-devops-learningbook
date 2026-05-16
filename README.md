@@ -92,7 +92,7 @@ Learn → Practice → Document → Improve → Repeat
 
 ---
 
-# 🔥 Purpose
+# Purpose
 
 This repository serves as:
 - a structured DevOps learning notebook
